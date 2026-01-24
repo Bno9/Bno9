@@ -1,10 +1,10 @@
-# 😼Breno
+# Breno
 
 **`Desenvolvedor FullStack Junior`**
 
-Me chamo Breno, tenho 20 anos e sou de SP. Atualmente, estou cursando Desenvolvimento full stack na EBAC. Desde criança sempre gostei da ideia de poder criar o que eu quisesse digitando códigos, principalmente jogos, mas só tive coragem de iniciar essa carreira agora, com meus 20 anos.
+Me chamo Breno, tenho 21 anos e sou de SP. Atualmente, estou cursando Desenvolvimento full stack na EBAC. Desde criança sempre gostei da ideia de poder criar o que eu quisesse digitando códigos, principalmente jogos, mas só tive coragem de iniciar essa carreira aos meus 20 anos.
 
-Ainda estou no começo do aprendizado, o perfil está meio vazio e não tenho muito conhecimento na área, mas pretendo aprender e melhorar muito
+Ja tenho uma base sólida, mas com certeza ainda tem muito o que aprender, e sempre busco melhorar
 
 [Instagram](https://www.instagram.com/breno_d_b/)
 
@@ -52,14 +52,6 @@ Ainda estou no começo do aprendizado, o perfil está meio vazio e não tenho mu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
