@@ -78,6 +78,8 @@ Ja tenho uma base sólida, mas com certeza ainda tem muito o que aprender, e sem
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
 />
 
+</br>
+</br>
 
 ### 📊 Estatísticas
 
