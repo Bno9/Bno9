@@ -4,7 +4,7 @@
 
 Me chamo Breno, tenho 21 anos e sou de SP. Atualmente, estou cursando Desenvolvimento full stack na EBAC. Desde criança sempre gostei da ideia de poder criar o que eu quisesse digitando códigos, principalmente jogos, mas só tive coragem de iniciar essa carreira aos meus 20 anos.
 
-Ja tenho uma base sólida, mas com certeza ainda tem muito o que aprender, e sempre busco melhorar
+Atualmente focado em python
 
 [Instagram](https://www.instagram.com/breno_d_b/)
 
