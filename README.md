@@ -69,9 +69,15 @@ Ja tenho uma base sólida, mas com certeza ainda tem muito o que aprender, e sem
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+/>
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
