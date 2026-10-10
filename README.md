@@ -55,6 +55,14 @@ Atualmente focado em python
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React" 
     title="React"
     width="30px" 
@@ -92,6 +100,14 @@ Atualmente focado em python
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" 
 />
 
 </br>
